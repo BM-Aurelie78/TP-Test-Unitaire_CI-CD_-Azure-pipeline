@@ -1,0 +1,14 @@
+# Fichiers temporaires
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.coverage
+report.html
+
+# Environnements virtuels
+venv/
+.env
+
+# Éditeurs
+.vscode/
+.idea/
