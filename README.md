@@ -124,13 +124,15 @@ addopts = -q -n 4 --cov=server --cov-report=term-missing
 testpaths = tests
 
 Résultat:
-
-
+----------------------------------------------------------------------------
 Name        Stmts   Miss  Cover   Missing
------------------------------------------
+----------------------------------------------------------------------------
 server.py      59     32    46%   24, 28-38, 43, 47-64, 68-74, 79-84, 95
------------------------------------------
+----------------------------------------------------------------------------
 TOTAL          59     32    46%
+----------------------------------------------------------------------------
+
+
 ............
 
 3.10)	Relancer le dernier test sur Chrome, FireFox et Edge pour être sûr que le site soit compatible avec ces principaux browsers (éventuellement safari) ? 
